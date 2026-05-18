@@ -1,4 +1,4 @@
-# Explainable Predictive Analysis of Collaborative Healthcare Processes
+# Towards Explainable and Interpretable Predictive Monitoring of Collaborative Processes
 
 **Authors:** Roberto Nai, Emilio Sulis, Daniel Calegari García, Andrea Delgado
 
