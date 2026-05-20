@@ -6,11 +6,11 @@
 
 ## Abstract
 
-This work addresses the interplay between process, collaboration, information, and prediction in collaborative healthcare processes, showing how their integration supports informed and timely decision-making.
+Collaborative processes involve multiple interacting participants that coordinate activities to achieve shared objectives. In these settings, process behaviour depends not only on activity sequences but also on interaction dynamics among actors, making predictive process monitoring (PPM) particularly challenging. Moreover, many predictive approaches remain black-box models, limiting the interpretability of their outputs. 
 
-The approach is evaluated on a real-world collaborative healthcare event log from an emergency department setting, where multiple actors interact within time-constrained processes. The results show that the combination of predictive modelling, explainability, and LLM-based interpretation supports a more transparent analysis of process behaviour and outcomes.
+This work proposes integrating explainability and interpretation components into a PPM pipeline for collaborative business processes. The approach transforms traditional event logs into collaborative event logs enriched with participant-oriented, interaction-aware information that describes inter-participant interactions and message exchanges. The predictive layer employs Transformer-based techniques, while the explainability layer analyses the contributions of activities, participants, and interaction-aware elements to predictive outcomes using SHAP explanations. In addition, a locally deployed Large Language Model-based interpretation layer generates human-readable explanations while preserving data privacy. 
 
-This work contributes to the design of AI-enabled information systems by showing how explainable and privacy-preserving predictive pipelines can support the analysis of collaborative processes.
+The experimental evaluation was conducted on four benchmark collaborative event logs and, additionally, on a new real-world healthcare event log from an Emergency Department, introduced as a collaborative healthcare case study for this work. 
 
 ## Project Scripts
 
