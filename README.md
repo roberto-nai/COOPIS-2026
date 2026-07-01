@@ -1,6 +1,6 @@
 # Towards Explainable and Interpretable Predictive Monitoring of Collaborative Processes
 
-**Authors:** Roberto Nai, Emilio Sulis, Daniel Calegari García, Andrea Delgado
+**Authors:** Roberto Nai, Emilio Sulis, Daniel Calegari García, Andrea Delgado, Guido Boella
 
 ---
 
